@@ -1,0 +1,56 @@
+key1 | value1
+key2 | value2
+key1 | value3
+key2 | value4
+key1 | value1
+key2 | value2
+key1 | value3
+key2 | value4
+key1 | value1
+key2 | value2
+key1 | value3
+key2 | value4
+key1 | value1
+key2 | value2
+key1 | value3
+key2 | value4
+key1 | value1
+key2 | value2
+key1 | value3
+key2 | value4
+key1 | value1
+key2 | value2
+key1 | value3
+key2 | value4
+key1 | value1
+key2 | value2
+key1 | value3
+key2 | value4
+key1 | value1
+key2 | value2
+key1 | value3
+key2 | value4
+key1 | value1
+key2 | value2
+key1 | value3
+key2 | value4
+key1 | value1
+key2 | value2
+key1 | value3
+key2 | value4
+key1 | value1
+key2 | value2
+key1 | value3
+key2 | value4
+bigKey | Hello This is  really long value!
+bigKey | Hello This is  really long value!
+bigKey | Hello This is  really long value!
+bigKey | Hello This is  really long value!
+bigKey | Hello This is  really long value!
+bigKey | Hello This is  really long value!
+bigKey | Hello This is  really long value!
+bigKey | New Value for the Big Key
+bigKey | Hello This is  really long value!
+bigKey | New Value for the Big Key
+bigKey | Hello This is  really long value!
+bigKey | New Value for the Big Key
